@@ -9,7 +9,6 @@ public class AppleSale {
 		
 		//大数据范围的结果—— 小数据范围的变量来接受+（小范围数值类型)
 						  //强制转换 问题：精度缺失
-		int result = before + (int)rise;
-		System.out.print("今年苹果笔记本的销售额为:"+ result);
+
 	}
 }
